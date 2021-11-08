@@ -1,1 +1,1 @@
-# GA---SQL--Patterns---Operation
+# GA-SQL-Patterns-Operation
